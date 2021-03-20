@@ -9,7 +9,7 @@
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
- {
+#Orange {
   border: 20px solid #000;
   display: inline-block; 
   min-width: 20em; 
